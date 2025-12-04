@@ -1,0 +1,11 @@
+{
+  "name": "luxira-net",
+  "version": "1.0.0",
+  "description": "Static website for luxira.net",
+  "scripts": {
+    "deploy": "wrangler pages deploy . --project-name=luxira-net --branch=main"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

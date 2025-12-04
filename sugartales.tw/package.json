@@ -1,0 +1,11 @@
+{
+  "name": "sugartales-tw",
+  "version": "1.0.0",
+  "description": "Static website for sugartales.tw",
+  "scripts": {
+    "deploy": "wrangler pages deploy . --project-name=sugartales-tw --branch=main"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
