@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://luxira.net/sitemap_index.xml
+Sitemap: https://luxira.net/sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
